@@ -1,6 +1,6 @@
 # Content calendar
 ## About
-Java Spring CRUD application for managing ideas and other miscellaneous type of content, using a postgresql database. 
+Java Spring CRUD application for managing ideas and other miscellaneous type of content, using a postgresql database that runs in docker.
 
 ## Usage
 Once the server is running, it accepts GET, POST, PUT and DELETE requests at the address `http://localhost:8080/api/content`. POST requests should have the following format:
